@@ -1,4 +1,4 @@
-## Simple acount balance maintain using OOP concept
+## Simple account balance maintain using OOP concept
 class User(): # parent class : User
 	def __init__(self,name, age, gender):
 		self.name = name
